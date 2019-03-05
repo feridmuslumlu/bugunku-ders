@@ -1,0 +1,38 @@
+    body{
+        margin: 0px;
+        padding: 0px;
+    }
+    .left{
+
+        width: 50%;
+        float: left;
+    }
+    .container{
+        margin:0 auto;
+        width: 300px;
+padding-top: 200px;
+    }
+.ff{
+    text-align: center
+}
+.right{
+    background: black;
+    height: 100%
+
+
+}
+.rr{
+  width: 100%
+}
+    
+
+
+
+    }
+    .left h1{
+        padding-top: 60px;
+    }
+.right{
+    float:right;
+    width:50%;
+}
